@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Harshith reddy 
-- 👀 I’m a DevOps Engineer Looking for a possition where i can utilize my skills and knowledge.
-- 🌱 I have Hands on experince on Devops With AWS cloud along with PYTHON.
-- 💞️ In my Repository you can find my real time projects on devops 
+- 👋 Hi, My name is  Harshith reddy 
+- 👀 I’m a AWS DevOps Engineer.
+- here you can find hands on projects for your resume.
 - 📫 YOu can contact me - harshithreddyalakanti15@gmail.com.
 
 <!---
